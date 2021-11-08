@@ -1,0 +1,106 @@
+[
+    {
+        "_id":"1",
+        "fruitName": "Apple",
+        "pricePerFruit": 20,
+        "calorificValuePerFruit": 95,
+        "shelfLifeDays": 14,
+        "enabled":true
+    },
+    {
+        "_id":"2",
+        "fruitName": "Banana",
+        "pricePerFruit": 12,
+        "calorificValuePerFruit": 75,
+        "shelfLifeDays": 3,
+        "enabled":true
+    },
+    {
+        "_id":"3",
+        "fruitName": "Grapes",
+        "pricePerFruit": 25,
+        "calorificValuePerFruit": 104,
+        "shelfLifeDays": 8,
+        "enabled":true
+    },
+    {
+        "_id":"4",
+        "fruitName": "Guava",
+        "pricePerFruit": 8,
+        "calorificValuePerFruit": 56,
+        "shelfLifeDays": 15,
+        "enabled":true
+    },
+    {
+        "_id":"5",
+        "fruitName": "Jackfruit",
+        "pricePerFruit": 35,
+        "calorificValuePerFruit": 157,
+        "shelfLifeDays": 12,
+        "enabled":true
+    },
+    {
+        "_id":"6",
+        "fruitName": "Kiwifruit",
+        "pricePerFruit": 15,
+        "calorificValuePerFruit": 90,
+        "shelfLifeDays": 7,
+        "enabled":true
+    },
+    {
+        "_id":"7",
+        "fruitName": "Mango",
+        "pricePerFruit": 40,
+        "calorificValuePerFruit": 202,
+        "shelfLifeDays": 5,
+        "enabled":true
+    },
+    {
+        "_id":"8",
+        "fruitName": "Watermelon",
+        "pricePerFruit": 50,
+        "calorificValuePerFruit": 312,
+        "shelfLifeDays": 10,
+        "enabled":true
+    },
+    {
+        "_id":"9",
+        "fruitName": "Orange",
+        "pricePerFruit": 10,
+        "calorificValuePerFruit": 60,
+        "shelfLifeDays": 20,
+        "enabled":true
+    },  
+    {
+        "_id":"10",
+        "fruitName": "Papaya",
+        "pricePerFruit": 28,
+        "calorificValuePerFruit": 120,
+        "shelfLifeDays": 4,
+        "enabled":true
+    },
+    {
+        "_id":"11",
+        "fruitName": "Pineapple",
+        "pricePerFruit": 45,
+        "calorificValuePerFruit": 256,
+        "shelfLifeDays": 2,
+        "enabled":true
+    },
+    {
+        "_id":"12",
+        "fruitName": "Pomegranate",
+        "pricePerFruit": 30,
+        "calorificValuePerFruit": 144,
+        "shelfLifeDays": 17,
+        "enabled":true
+    },
+    {
+        "_id":"13",
+        "fruitName": "Strawberry",
+        "pricePerFruit": 5,
+        "calorificValuePerFruit": 32,
+        "shelfLifeDays": 6,
+        "enabled":true
+    }
+]

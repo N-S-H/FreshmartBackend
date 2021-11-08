@@ -1,0 +1,111 @@
+[
+    {
+        "fruitId":"1",
+        "entryTime": "13/02/2021",
+        "quantity": 6,
+        "remainingShelfDays": 14
+    },
+    {
+        "fruitId":"2",
+        "entryTime": "13/02/2021",
+        "quantity": 3,
+        "remainingShelfDays": 3
+    },
+    {
+        "fruitId":"3",
+        "entryTime": "13/02/2021",
+        "quantity": 5,
+        "remainingShelfDays": 8
+    },
+    {
+        "fruitId":"4",
+        "entryTime": "13/02/2021",
+        "quantity": 12,
+        "remainingShelfDays": 15
+    },
+    {
+        "fruitId":"5",
+        "entryTime": "13/02/2021",
+        "quantity": 24,
+        "remainingShelfDays": 12
+    },
+    {
+        "fruitId":"6",
+        "entryTime": "13/02/2021",
+        "quantity": 17,
+        "remainingShelfDays": 7
+    },
+    {
+        "fruitId":"7",
+        "entryTime": "13/02/2021",
+        "quantity": 10,
+        "remainingShelfDays": 5
+    },
+    {
+        "fruitId":"8",
+        "entryTime": "13/02/2021",
+        "quantity": 11,
+        "remainingShelfDays": 10
+    },
+    {
+        "fruitId":"9",
+        "entryTime": "13/02/2021",
+        "quantity": 5,
+        "remainingShelfDays": 20
+    },
+    {
+        "fruitId":"10",
+        "entryTime": "13/02/2021",
+        "quantity": 4,
+        "remainingShelfDays": 4
+    },
+    {
+        "fruitId":"11",
+        "entryTime": "13/02/2021",
+        "quantity": 20,
+        "remainingShelfDays": 2
+    },
+    {
+        "fruitId":"12",
+        "entryTime": "13/02/2021",
+        "quantity": 6,
+        "remainingShelfDays": 17
+    },
+    {
+        "fruitId":"13",
+        "entryTime": "13/02/2021",
+        "quantity": 3,
+        "remainingShelfDays": 6
+    },
+    {
+        "fruitId":"4",
+        "entryTime": "13/02/2021",
+        "quantity": 15,
+        "remainingShelfDays": 15
+    },
+    {
+        "fruitId":"2",
+        "entryTime": "13/02/2021",
+        "quantity": 24,
+        "remainingShelfDays": 3
+    },
+    {
+        "fruitId":"11",
+        "entryTime": "13/02/2021",
+        "quantity": 16,
+        "remainingShelfDays": 2
+    },
+    {
+        "fruitId":"7",
+        "entryTime": "13/02/2021",
+        "quantity": 11,
+        "remainingShelfDays": 5
+    },
+    {
+        "fruitId":"5",
+        "entryTime": "13/02/2021",
+        "quantity": 15,
+        "remainingShelfDays": 12
+    }
+
+]
